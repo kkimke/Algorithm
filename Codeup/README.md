@@ -5,4 +5,4 @@
 | (1) 출력      | [1001~1008](https://github.com/kkimke/Algorithm/tree/master/Codeup/src_1) |
 | (2) 입출력    | [1010~1030](https://github.com/kkimke/Algorithm/tree/master/Codeup/src_2) |
 | (3) 출력 변환 | [1031~1037](https://github.com/kkimke/Algorithm/tree/master/Codeup/src_3) |
-| (4) 산술 연산 | [1038~1046](https://github.com/kkimke/Algorithm/tree/master/Codeup/src_4) |
+| (4) 산술 연산 | [1038~1048](https://github.com/kkimke/Algorithm/tree/master/Codeup/src_4) |
